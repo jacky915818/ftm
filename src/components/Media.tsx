@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Media() {
   const mediaList = [
     {
-      title: "代码",
+      title: "代码1",
       linkText: "Github",
       link: "href="https://twitter.com/btc1399",
     },
