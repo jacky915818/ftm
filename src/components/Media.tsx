@@ -6,17 +6,17 @@ export default function Media() {
     {
       title: "代码",
       linkText: "Github",
-      link: "https://github.com/vectorisvector/inscription",
+      link: "href="https://twitter.com/btc1399",
     },
     {
       title: "开发者",
-      linkText: "@cybervector_",
-      link: "https://twitter.com/cybervector_",
+      linkText: "@币圈德玛",
+      link: "href="https://twitter.com/btc1399",
     },
     {
       title: "Alpha",
       linkText: "@ChaunceyCrypto",
-      link: "https://twitter.com/ChaunceyCrypto",
+      link: "https://twitter.com/btc1399",
     },
   ];
 
